@@ -1,0 +1,13 @@
+{
+  "name": "trains",
+  "version": "1.0.0",
+  "description": "Tells when train gonna mess up your drive",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server -c-1 -p 3000 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+  
+}

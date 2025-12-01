@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Train POC</title>
+  <style>
+    body{font-family:system-ui,Segoe UI,Roboto,Arial;margin:20px}
+    label{display:block;margin-top:12px}
+    #status{margin-top:8px;color:#666}
+    #log{white-space:pre-wrap;background:#f7f7f7;padding:8px;border-radius:6px;height:180px;overflow:auto}
+    .train{border-bottom:1px solid #eee;padding:6px 0}
+  </style>
+</head>
+<body>
+  <h1>Train POC — station ETA</h1>
+  <div>
+    <label>Station
+      <select id="stationSelect"><option>Loading...</option></select>
+    </label>
+    <div id="status">Initializing...</div>
+    <div style="font-size:0.9em;color:#666;margin-top:6px">Last stations update: <span id="stationsUpdated">(never)</span></div>
+  </div>
+
+  <div style="margin-top:8px">
+    <strong>Next arrival in: </strong><span id="countdown">–</span>
+  </div>
+
+  <h2>Predicted arrivals</h2>
+  <div id="predictions">(no data yet)</div>
+
+  <!-- Raw logs removed to avoid performance issues; use console for debug -->
+
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

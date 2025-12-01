@@ -1,0 +1,4385 @@
+{
+    "type": "active-stops",
+    "data": [
+        {
+            "coords": [
+                "56.178316",
+                "26.890792"
+            ],
+            "workingTime": [],
+            "directionList": [
+                1
+            ],
+            "_id": "692ccc849c93e54b8092a8b0",
+            "id": "81",
+            "pvID": "201",
+            "title": "Aglona",
+            "lockedTitle": "Aglona*",
+            "cargoTitle": "Aglona",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Rušonas pagasts"
+        },
+        {
+            "coords": [
+                56.62264915,
+                25.275455649999998
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "06:00 - 16:10"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e5433dca7026",
+            "title": "Aizkraukle",
+            "departure": "2025-12-01 18:21:00",
+            "id": "68",
+            "gps_id": "68",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Aizkraukles pagasts",
+            "pvID": "203",
+            "i": 17,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 17,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.6331642,
+                25.5850451
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e5dad2d56035",
+            "title": "Alotene",
+            "departure": "2025-12-01 19:30:00",
+            "id": "70",
+            "gps_id": "70",
+            "routes_id": "710543",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Klintaines pagasts",
+            "pvID": "204",
+            "i": 9,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.23863785,
+                25.3015555
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e546ccd56054",
+            "title": "Āraiši",
+            "departure": "2025-12-01 17:57:00",
+            "id": "34",
+            "gps_id": "34",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Drabešu pagasts",
+            "pvID": "206",
+            "i": 1,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.9572569,
+                23.69026585
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e553a2dc0f14",
+            "title": "Asari",
+            "departure": "2025-12-01 19:02:00",
+            "id": "118",
+            "gps_id": "118",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jūrmala",
+            "pvID": "207",
+            "i": 8,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.52996434,
+                26.4085538
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e5a524ca7021",
+            "title": "Atašiene",
+            "departure": "2025-12-01 17:10:00",
+            "id": "84",
+            "gps_id": "84",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Atašienes pagasts",
+            "pvID": "208",
+            "i": 12,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 12,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                "56.917104",
+                "24.079756"
+            ],
+            "workingTime": [],
+            "directionList": [
+                3
+            ],
+            "_id": "692ccc849c93e527bb92a8de",
+            "id": "127",
+            "pvID": "209",
+            "title": "Atgāzene",
+            "lockedTitle": "Atgāzene",
+            "cargoTitle": "Atgāzene",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null
+        },
+        {
+            "coords": [
+                56.9105786,
+                24.0771599
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e501d3e32f90",
+            "title": "BA Turība",
+            "departure": "2025-12-01 19:44:00",
+            "id": "128",
+            "gps_id": "128",
+            "routes_id": "710568",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "387",
+            "i": 4,
+            "train": "6874",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.7978546,
+                23.96800915
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.9572217,
+                23.9532901
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5a489dc0f1e",
+            "title": "Babīte",
+            "departure": "2025-12-01 19:31:00",
+            "id": "108",
+            "gps_id": "108",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Babītes pagasts",
+            "pvID": "213",
+            "i": 18,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 18,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9215047,
+                24.0813775
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e535dde33019",
+            "title": "Bieriņi / Bērnu slimnīca",
+            "departure": "2025-12-01 19:42:00",
+            "id": "184",
+            "gps_id": "184",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "",
+            "pvID": "500",
+            "i": 2,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.691488299999996,
+                22.9804862
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e54d2adc0ee7",
+            "title": "Biksti",
+            "departure": "2025-12-01 19:46:00",
+            "id": "140",
+            "gps_id": "140",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "222",
+            "i": 4,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.97729676666667,
+                24.14648306666667
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e55687dc0fc7",
+            "title": "Brasa",
+            "departure": "2025-12-01 18:58:00",
+            "id": "3",
+            "gps_id": "3",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Laktas iela 5, Rīga",
+            "pvID": "225",
+            "i": 2,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.4140873,
+                28.0537131
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e50defca7016",
+            "title": "Briģi",
+            "departure": "2025-12-01 15:19:00",
+            "id": "95",
+            "gps_id": "95",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Zaļesjes pagasts",
+            "pvID": "227",
+            "i": 1,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9810794,
+                23.851865
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "07:10 - 18:35"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e5ab81dc0f1b",
+            "title": "Bulduri",
+            "departure": "2025-12-01 19:20:00",
+            "id": "111",
+            "gps_id": "111",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Edinburgas prospekts 10A, Jūrmala",
+            "pvID": "229",
+            "i": 15,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 15,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.1275587,
+                24.2783731
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5d877dc0fd1",
+            "title": "Carnikava",
+            "departure": "2025-12-01 19:28:00",
+            "id": "12",
+            "gps_id": "12",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Stacijas iela 2, Carnikava",
+            "pvID": "230",
+            "i": 12,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 12,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.7086513,
+                23.8330336
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e558f1e33020",
+            "title": "Cena",
+            "departure": "2025-12-01 20:10:00",
+            "id": "134",
+            "gps_id": "134",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Cenu pagasts",
+            "pvID": "232",
+            "i": 9,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                57.3139814,
+                25.2831614
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e52b09d56053",
+            "title": "Cēsis",
+            "departure": "2025-12-01 17:47:00",
+            "id": "35",
+            "gps_id": "35",
+            "routes_id": "710545",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Stacijas laukums 1, Cēsis",
+            "pvID": "233",
+            "i": 0,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 0,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                "56.958268",
+                "26.331789"
+            ],
+            "workingTime": [],
+            "directionList": [
+                2
+            ],
+            "_id": "692ccc849c93e5b0bd92a8c4",
+            "id": "101",
+            "pvID": "234",
+            "title": "Cesvaine",
+            "lockedTitle": "Cesvaine",
+            "cargoTitle": "Cesvaine",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Cesvaines pagasts"
+        },
+        {
+            "coords": [
+                56.98032,
+                24.1685444
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e52f87d5605e",
+            "title": "Čiekurkalns",
+            "departure": "2025-12-01 19:16:00",
+            "id": "21",
+            "gps_id": "21",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Starta iela 40, Rīga",
+            "pvID": "238",
+            "i": 11,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.7817745,
+                24.6541936
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e513dedc0f59",
+            "title": "Ciemupe",
+            "departure": "2025-12-01 19:04:00",
+            "id": "60",
+            "gps_id": "60",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Ogresgala pagasts",
+            "pvID": "235",
+            "i": 7,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.5337206,
+                27.53377
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e5634bca701a",
+            "title": "Cirma",
+            "departure": "2025-12-01 15:58:00",
+            "id": "91",
+            "gps_id": "91",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "236",
+            "i": 5,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.6531566,
+                23.7587234
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e59907e32f8d",
+            "title": "Cukurfabrika",
+            "departure": "2025-12-01 19:12:00",
+            "id": "136",
+            "gps_id": "136",
+            "routes_id": "710568",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Pārmju iela2,Jelgava",
+            "pvID": "237",
+            "i": 1,
+            "train": "6874",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.7978546,
+                23.96800915
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.7417122,
+                23.8755085
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e56254e3301f",
+            "title": "Dalbe",
+            "departure": "2025-12-01 20:06:00",
+            "id": "133",
+            "gps_id": "133",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Cenu pagasts",
+            "pvID": "239",
+            "i": 8,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.8701935,
+                24.2807021
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e577c2e32f9b",
+            "title": "Dārziņi",
+            "departure": "2025-12-01 19:29:00",
+            "id": "52",
+            "gps_id": "52",
+            "routes_id": "710569",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Salaspils novads",
+            "pvID": "241",
+            "i": 7,
+            "train": "6256",
+            "currentStopIndex": 7,
+            "animatedCoord": [
+                56.86505078,
+                24.318618880000002
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.001793,
+                24.1261748
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5a3afdc0fc9",
+            "title": "Dauderi",
+            "departure": "2025-12-01 19:03:00",
+            "id": "185",
+            "gps_id": "185",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Sliežu iela, Ziemeļu rajons, Rīga, LV-1005",
+            "pvID": "501",
+            "i": 4,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                55.8747094,
+                26.5282348
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:30 - 19:55"
+                    ]
+                }
+            ],
+            "_id": "692d9cf89c93e5bb15cf96ca",
+            "title": "Daugavpils",
+            "departure": "2025-12-01 19:20:00",
+            "id": "80",
+            "gps_id": "80",
+            "routes_id": "710515",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Stacijas iela 44, Daugavpils",
+            "pvID": "243",
+            "i": 6,
+            "train": "706",
+            "currentStopIndex": 6,
+            "animatedCoord": [
+                55.93422185263157,
+                26.733918163157895
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                56.9104396,
+                24.1997994
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5d43cdc0f63",
+            "title": "Daugmale",
+            "departure": "2025-12-01 19:39:00",
+            "id": "48",
+            "gps_id": "48",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Rīga",
+            "pvID": "245",
+            "i": 17,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 17,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.94675993333333,
+                24.037943033333335
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e54e7edc0f21",
+            "title": "Depo",
+            "departure": "2025-12-01 19:38:00",
+            "id": "105",
+            "gps_id": "105",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "248",
+            "i": 21,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 21,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.6287513,
+                23.2848399
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e59626dc0ee6",
+            "title": "Dobele",
+            "departure": "2025-12-01 19:27:00",
+            "id": "139",
+            "gps_id": "139",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Stacijas iela 2, Dobele",
+            "pvID": "249",
+            "i": 3,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.8643751,
+                24.3237708
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5d611dc0f60",
+            "title": "Dole",
+            "departure": "2025-12-01 19:29:00",
+            "id": "53",
+            "gps_id": "53",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Salaspils novads",
+            "pvID": "250",
+            "i": 14,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 14,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9696184,
+                23.7765805
+            ],
+            "workingTime": [
+                {
+                    "type": "darba dienās",
+                    "periods": [
+                        "07:10 - 18:10"
+                    ]
+                },
+                {
+                    "type": "brīvdienās",
+                    "periods": [
+                        "07:45 - 18:10"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e5fd9edc0f18",
+            "title": "Dubulti",
+            "departure": "2025-12-01 19:12:00",
+            "id": "114",
+            "gps_id": "114",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Uzgaidāmo zāli īrē Jūrmalas dome",
+            "adress": "Zigfrīda Meierovica prospekts 4., Jūrmala",
+            "pvID": "252",
+            "i": 12,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 12,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9735865,
+                23.8218398
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5113bdc0f1a",
+            "title": "Dzintari",
+            "departure": "2025-12-01 19:18:00",
+            "id": "112",
+            "gps_id": "112",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Edinburgas prospekts 23, Jūrmala",
+            "pvID": "255",
+            "i": 14,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 14,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.1073766,
+                24.7409534
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e5fa71d56058",
+            "title": "Egļupe",
+            "departure": "2025-12-01 18:36:00",
+            "id": "28",
+            "gps_id": "28",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "256",
+            "i": 5,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.8940829,
+                24.2320434
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5070adc0f61",
+            "title": "Gaisma",
+            "departure": "2025-12-01 19:34:00",
+            "id": "50",
+            "gps_id": "50",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Rīga",
+            "pvID": "274",
+            "i": 15,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 15,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.1018686,
+                24.2054784
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e50208dc0fcf",
+            "title": "Garciems",
+            "departure": "2025-12-01 19:22:00",
+            "id": "10",
+            "gps_id": "10",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Carnikavas pagasts",
+            "pvID": "276",
+            "i": 10,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                57.04646384,
+                24.41301946
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e56e27d5605b",
+            "title": "Garkalne",
+            "departure": "2025-12-01 18:59:00",
+            "id": "24",
+            "gps_id": "24",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "374",
+            "i": 8,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                57.1144683,
+                24.2457644
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5708fdc0fd0",
+            "title": "Garupe",
+            "departure": "2025-12-01 19:25:00",
+            "id": "11",
+            "gps_id": "11",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Carnikavas pagasts",
+            "pvID": "281",
+            "i": 11,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                57.1414869,
+                24.2880361
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e57d23dc0fd2",
+            "title": "Gauja",
+            "departure": "2025-12-01 19:30:00",
+            "id": "13",
+            "gps_id": "13",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Mazā Stacijas iela, 2, Gauja",
+            "pvID": "282",
+            "i": 13,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 13,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                "57.183173",
+                "26.766376"
+            ],
+            "workingTime": [],
+            "directionList": [
+                2
+            ],
+            "_id": "692ccc849c93e56cce92a8c5",
+            "id": "102",
+            "pvID": "291",
+            "title": "Gulbene",
+            "lockedTitle": "Gulbene",
+            "cargoTitle": "Gulbene",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Dzelzceļa iela 8, Gulbene"
+        },
+        {
+            "coords": [
+                57.19974775,
+                25.173241
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e59080d56055",
+            "title": "Ieriķi",
+            "departure": "2025-12-01 18:07:00",
+            "id": "32",
+            "gps_id": "32",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "297",
+            "i": 2,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.8395463,
+                24.5062453
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5b502dc0f5d",
+            "title": "Ikšķile",
+            "departure": "2025-12-01 19:18:00",
+            "id": "56",
+            "gps_id": "56",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Pārbrauktuves iela 2, Ikšķile",
+            "pvID": "299",
+            "i": 11,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9503488,
+                23.9996537
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "06:35 - 18:50"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e5e440dc0f1f",
+            "title": "Imanta",
+            "departure": "2025-12-01 19:34:00",
+            "id": "107",
+            "gps_id": "107",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Zolitūdes iela 27, Rīga",
+            "pvID": "305",
+            "i": 19,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 19,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.096514,
+                24.6878235
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e551f0d56059",
+            "title": "Inčukalns",
+            "departure": "2025-12-01 18:41:00",
+            "id": "27",
+            "gps_id": "27",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Atmodas iela, Inčukalns",
+            "pvID": "307",
+            "i": 6,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                57.224921,
+                24.3978373
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e54b25dc0fd4",
+            "title": "Inčupe",
+            "departure": "2025-12-01 19:41:00",
+            "id": "15",
+            "gps_id": "15",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Saulkrastu pagasts",
+            "pvID": "310",
+            "i": 15,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 15,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                "55.87641230198715",
+                "27.541540047542455"
+            ],
+            "workingTime": [],
+            "directionList": [
+                1
+            ],
+            "_id": "692ccc849c93e5f2e592a8ee",
+            "id": "182",
+            "pvID": "313",
+            "title": "Indra",
+            "lockedTitle": "Indra",
+            "cargoTitle": "Indra",
+            "waitingRoom": "1",
+            "canopy": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Indras pagasts"
+        },
+        {
+            "coords": [
+                56.482277249999996,
+                27.83014215
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e55e08ca7018",
+            "title": "Istalsna",
+            "departure": "2025-12-01 15:37:00",
+            "id": "93",
+            "gps_id": "93",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Kravaļi, Isnaudas pagasts",
+            "pvID": "317",
+            "i": 3,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                "57.34416",
+                "25.340274"
+            ],
+            "workingTime": [],
+            "directionList": [
+                6
+            ],
+            "_id": "692ccc849c93e512e492a888",
+            "id": "36",
+            "pvID": "323",
+            "title": "Jāņamuiža",
+            "lockedTitle": "Jāņamuiža",
+            "cargoTitle": "Jāņamuiža",
+            "waitingRoom": "0",
+            "canopy": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null
+        },
+        {
+            "coords": [
+                56.9190498,
+                24.1859464
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e5e4bdca7029",
+            "title": "Jāņavārti",
+            "departure": "2025-12-01 19:20:00",
+            "id": "47",
+            "gps_id": "47",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Salaspils 18, Rīga",
+            "pvID": "331",
+            "i": 20,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 20,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9609778,
+                23.7573588
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e50110dc0f17",
+            "title": "Jaundubulti",
+            "departure": "2025-12-01 19:08:00",
+            "id": "115",
+            "gps_id": "115",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jūrmala",
+            "pvID": "336",
+            "i": 11,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                "57.07027",
+                "26.60435"
+            ],
+            "workingTime": [],
+            "directionList": [
+                2
+            ],
+            "_id": "692ccc849c93e583c092a8ef",
+            "id": "183",
+            "pvID": "338",
+            "title": "Jaungulbene",
+            "lockedTitle": "Jaungulbene",
+            "cargoTitle": "Jaungulbene",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": ""
+        },
+        {
+            "coords": [
+                56.6868667,
+                25.9764169
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e522d7e32f71",
+            "title": "Jaunkalsnava",
+            "departure": "2025-12-01 20:58:00",
+            "id": "97",
+            "gps_id": "97",
+            "routes_id": "710566",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Kalsnavas pagasts",
+            "pvID": "341",
+            "i": 7,
+            "train": "816",
+            "currentStopIndex": 1,
+            "animatedCoord": [
+                56.826484253846154,
+                24.56392986923077
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                2
+            ]
+        },
+        {
+            "coords": [
+                56.8217968,
+                24.5819398
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e51912dc0f5c",
+            "title": "Jaunogre",
+            "departure": "2025-12-01 19:13:00",
+            "id": "57",
+            "gps_id": "57",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Raiņa prospekts 18, Ogre",
+            "pvID": "343",
+            "i": 10,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.806514,
+                23.9844656
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e54151e3301d",
+            "title": "Jaunolaine",
+            "departure": "2025-12-01 19:55:00",
+            "id": "131",
+            "gps_id": "131",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "346",
+            "i": 6,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.6415246,
+                23.7343264
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "04:25 - 19:10"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e5c941dc0ee5",
+            "title": "Jelgava",
+            "departure": "2025-12-01 19:05:00",
+            "id": "137",
+            "gps_id": "137",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Blakus NARVESEN",
+            "adress": "Stacijas iela 1, Jelgava",
+            "pvID": "349",
+            "i": 2,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.2545592,
+                26.2103268
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e592c5d56030",
+            "title": "Jersika",
+            "departure": "2025-12-01 18:23:00",
+            "id": "76",
+            "gps_id": "76",
+            "routes_id": "710543",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jersikas pagasts",
+            "pvID": "360",
+            "i": 4,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                56.9924368,
+                24.2358786
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e519f6d5605c",
+            "title": "Jugla",
+            "departure": "2025-12-01 19:09:00",
+            "id": "22",
+            "gps_id": "22",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Salamandras iela 2, Rīga",
+            "pvID": "362",
+            "i": 9,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.6798246,
+                24.9696106
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e56c28dc0f55",
+            "title": "Jumprava",
+            "departure": "2025-12-01 18:45:00",
+            "id": "64",
+            "gps_id": "64",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jumpravas pagasts",
+            "pvID": "364",
+            "i": 3,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.7032831,
+                24.8884251
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e59346dc0f56",
+            "title": "Kaibala",
+            "departure": "2025-12-01 18:50:00",
+            "id": "63",
+            "gps_id": "63",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Lielvārdes pagasts",
+            "pvID": "367",
+            "i": 4,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.0859773,
+                24.1513389
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e573a9dc0fce",
+            "title": "Kalngale",
+            "departure": "2025-12-01 19:18:00",
+            "id": "9",
+            "gps_id": "9",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Carnikavas pagasts",
+            "pvID": "258",
+            "i": 9,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.7339767,
+                26.018818
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e55259e32f72",
+            "title": "Kalsnava",
+            "departure": "2025-12-01 21:05:00",
+            "id": "98",
+            "gps_id": "98",
+            "routes_id": "710566",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Kalsnavas pagasts",
+            "pvID": "260",
+            "i": 8,
+            "train": "816",
+            "currentStopIndex": 1,
+            "animatedCoord": [
+                56.826484253846154,
+                24.56392986923077
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                2
+            ]
+        },
+        {
+            "coords": [
+                56.74089633333333,
+                24.726745133333335
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5259bdc0f58",
+            "title": "Ķegums",
+            "departure": "2025-12-01 18:59:00",
+            "id": "61",
+            "gps_id": "61",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā otrā stāva ir  dzīvokļi",
+            "adress": "Stacijas laukums 1, Ķegums",
+            "pvID": "283",
+            "i": 6,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9381253,
+                23.4908453
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e57094dc0f10",
+            "title": "Ķemeri",
+            "departure": "2025-12-01 18:43:00",
+            "id": "122",
+            "gps_id": "122",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Ķemeri, Brocēnu iela 1 A",
+            "pvID": "286",
+            "i": 4,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.2863072,
+                24.4329853
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e573d5dc0fd7",
+            "title": "Ķīšupe",
+            "departure": "2025-12-01 19:51:00",
+            "id": "18",
+            "gps_id": "18",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Saulkrastu pagasts",
+            "pvID": "287",
+            "i": 18,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 18,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.650895,
+                25.4399364
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e5f437d55efc",
+            "title": "Koknese",
+            "departure": "2025-12-01 18:23:00",
+            "id": "69",
+            "gps_id": "69",
+            "routes_id": "710523",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Stacijas iela 1, Koknese",
+            "pvID": "267",
+            "i": 5,
+            "train": "812",
+            "currentStopIndex": 10,
+            "animatedCoord": [
+                56.52894102,
+                26.421487860000003
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                55.9256922,
+                27.14451245
+            ],
+            "workingTime": [],
+            "_id": "692d9cf89c93e580b3cf96cb",
+            "title": "Krāslava",
+            "departure": "2025-12-01 19:50:00",
+            "id": "181",
+            "gps_id": "181",
+            "routes_id": "710515",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Ūdrīšu pagasts",
+            "pvID": "269",
+            "i": 7,
+            "train": "706",
+            "currentStopIndex": 6,
+            "animatedCoord": [
+                55.93422185263157,
+                26.733918163157895
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                57.06484354,
+                24.51024156
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e51763e32fd8",
+            "title": "Krievupe",
+            "departure": "2025-12-01 19:53:00",
+            "id": "25",
+            "gps_id": "25",
+            "routes_id": "710572",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Garkalnes pagasts",
+            "pvID": "271",
+            "i": 4,
+            "train": "843",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                57.1273516,
+                24.7946074
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.52093103333333,
+                25.8595696
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:30 - 19:10"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e55cc7ca7024",
+            "title": "Krustpils",
+            "departure": "2025-12-01 17:43:00",
+            "id": "73",
+            "gps_id": "73",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Stacijas laukums 1, Jēkabpils",
+            "pvID": "273",
+            "i": 15,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 15,
+            "directionList": [
+                1,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9286157,
+                23.5456725
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e51fd9dc0f11",
+            "title": "Kūdra",
+            "departure": "2025-12-01 18:47:00",
+            "id": "121",
+            "gps_id": "121",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jūrmala",
+            "pvID": "275",
+            "i": 5,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.5398586,
+                26.0588217
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e5b2efca7023",
+            "title": "Kūkas",
+            "departure": "2025-12-01 17:30:00",
+            "id": "82",
+            "gps_id": "82",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Kūku pagasts",
+            "pvID": "279",
+            "i": 14,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 14,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.982154,
+                23.8701737
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e59774dc0f1c",
+            "title": "Lielupe",
+            "departure": "2025-12-01 19:23:00",
+            "id": "110",
+            "gps_id": "110",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "Ēkā ir kafejnīca",
+            "adress": "Jūrmala",
+            "pvID": "296",
+            "i": 16,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 16,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.722174,
+                24.8082368
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "06:30 - 17:55"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e548fbca7027",
+            "title": "Lielvārde",
+            "departure": "2025-12-01 18:45:00",
+            "id": "62",
+            "gps_id": "62",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā ir veikals",
+            "adress": "Ausekļa iela 1, Lielvārde",
+            "pvID": "298",
+            "i": 18,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 18,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.52479781588549,
+                21.018060812861854
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e57410dc0eea",
+            "title": "Liepāja",
+            "departure": "2025-12-01 21:37:00",
+            "id": "144",
+            "gps_id": "144",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā ir veikals",
+            "adress": "Rīgas iela 71, Liepāja",
+            "pvID": "300",
+            "i": 7,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                57.1842755,
+                25.0239347
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e55604d56056",
+            "title": "Līgatne",
+            "departure": "2025-12-01 18:17:00",
+            "id": "31",
+            "gps_id": "31",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Augšlīgatne",
+            "pvID": "301",
+            "i": 3,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                55.998071,
+                26.4528365
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e50921d5602d",
+            "title": "Līksna",
+            "departure": "2025-12-01 17:54:00",
+            "id": "79",
+            "gps_id": "79",
+            "routes_id": "710543",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Līksnas pagasts",
+            "pvID": "304",
+            "i": 1,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                57.1816488,
+                24.335751
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e53654dc0fd3",
+            "title": "Lilaste",
+            "departure": "2025-12-01 19:35:00",
+            "id": "14",
+            "gps_id": "14",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Carnikavas pagasts",
+            "pvID": "306",
+            "i": 14,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 14,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.3508030375,
+                26.1807532625
+            ],
+            "workingTime": [],
+            "_id": "692d9cf89c93e5301ccf96c9",
+            "title": "Līvāni",
+            "departure": "2025-12-01 18:35:00",
+            "id": "75",
+            "gps_id": "75",
+            "routes_id": "710515",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Dzelzceļa iela 16, Līvāni",
+            "pvID": "308",
+            "i": 5,
+            "train": "706",
+            "currentStopIndex": 6,
+            "animatedCoord": [
+                55.93422185263157,
+                26.733918163157895
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                57.38817949,
+                25.41435675
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e53122dc0f4c",
+            "title": "Lode",
+            "departure": "2025-12-01 20:15:00",
+            "id": "37",
+            "gps_id": "37",
+            "routes_id": "710557",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "309",
+            "i": 7,
+            "train": "876",
+            "currentStopIndex": 4,
+            "animatedCoord": [
+                57.1565296,
+                24.881329685714288
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.5331395,
+                27.721228
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e50c56ca7019",
+            "title": "Ludza",
+            "departure": "2025-12-01 15:47:00",
+            "id": "92",
+            "gps_id": "92",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Stacijas iela 90, Ludza",
+            "pvID": "311",
+            "i": 4,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.753736357142856,
+                26.002585657142856
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e536f4dc0f4f",
+            "title": "Lugaži",
+            "departure": "2025-12-01 21:02:00",
+            "id": "44",
+            "gps_id": "44",
+            "routes_id": "710557",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Valkas pagasts",
+            "pvID": "312",
+            "i": 10,
+            "train": "876",
+            "currentStopIndex": 4,
+            "animatedCoord": [
+                57.1565296,
+                24.881329685714288
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.850791,
+                26.2201862
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e57a13e32f74",
+            "title": "Madona",
+            "departure": "2025-12-01 21:25:00",
+            "id": "100",
+            "gps_id": "100",
+            "routes_id": "710566",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "Blakus ēkai veikali ",
+            "adress": "Saules iela 2, Madona",
+            "pvID": "315",
+            "i": 10,
+            "train": "816",
+            "currentStopIndex": 1,
+            "animatedCoord": [
+                56.826484253846154,
+                24.56392986923077
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                2
+            ]
+        },
+        {
+            "coords": [
+                56.971321,
+                23.7969916
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "07:15 - 19:35"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e54680dc0f19",
+            "title": "Majori",
+            "departure": "2025-12-01 19:15:00",
+            "id": "113",
+            "gps_id": "113",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "Ēkā ir kafejnīca",
+            "adress": "Lienes iela 2a, Jūrmala",
+            "pvID": "316",
+            "i": 13,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 13,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.0188714,
+                24.1300087
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e53adedc0fca",
+            "title": "Mangaļi",
+            "departure": "2025-12-01 19:06:00",
+            "id": "5",
+            "gps_id": "5",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Vitrupes iela 8, Rīga",
+            "pvID": "385",
+            "i": 5,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.7724399,
+                26.097122875
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e5809ce32f73",
+            "title": "Mārciena",
+            "departure": "2025-12-01 21:12:00",
+            "id": "99",
+            "gps_id": "99",
+            "routes_id": "710566",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Mārcienas pagasts",
+            "pvID": "319",
+            "i": 9,
+            "train": "816",
+            "currentStopIndex": 1,
+            "animatedCoord": [
+                56.826484253846154,
+                24.56392986923077
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                2
+            ]
+        },
+        {
+            "coords": [
+                56.855287649999994,
+                24.058622200000002
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e5a67fe3301c",
+            "title": "Medemciems",
+            "departure": "2025-12-01 19:51:00",
+            "id": "188",
+            "gps_id": "188",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "520",
+            "i": 5,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.958803,
+                23.7138444
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5646adc0f15",
+            "title": "Melluži",
+            "departure": "2025-12-01 19:04:00",
+            "id": "117",
+            "gps_id": "117",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Kanālu 20a, Jūrmala",
+            "pvID": "322",
+            "i": 9,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                "57.20774",
+                "25.234661"
+            ],
+            "workingTime": [],
+            "directionList": [
+                6
+            ],
+            "_id": "692ccc849c93e53a5792a885",
+            "id": "33",
+            "pvID": "324",
+            "title": "Melturi",
+            "lockedTitle": "Melturi",
+            "cargoTitle": "Melturi",
+            "waitingRoom": "0",
+            "canopy": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null
+        },
+        {
+            "coords": [
+                56.5418498,
+                26.252252900000002
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e5e39aca7022",
+            "title": "Mežāre",
+            "departure": "2025-12-01 17:19:00",
+            "id": "83",
+            "gps_id": "83",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Mežāres pagasts",
+            "pvID": "326",
+            "i": 13,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 13,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9700045,
+                23.2271698
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e584f1dc0f0e",
+            "title": "Milzkalne",
+            "departure": "2025-12-01 18:31:00",
+            "id": "124",
+            "gps_id": "124",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "328",
+            "i": 2,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.63095884285715,
+                25.20797764285714
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e53f5ddc0f53",
+            "title": "Muldakmens",
+            "departure": "2025-12-01 18:33:00",
+            "id": "67",
+            "gps_id": "67",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Aizkraukles pagasts",
+            "pvID": "330",
+            "i": 1,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.4305539,
+                27.9602647
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e57398ca7017",
+            "title": "Nerza",
+            "departure": "2025-12-01 15:27:00",
+            "id": "94",
+            "gps_id": "94",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Marlina, Nirzas pagasts",
+            "pvID": "333",
+            "i": 2,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.13567716666667,
+                26.3715491
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e596e0d5602f",
+            "title": "Nīcgale",
+            "departure": "2025-12-01 18:11:00",
+            "id": "77",
+            "gps_id": "77",
+            "routes_id": "710543",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Nīcgales pagasts",
+            "pvID": "335",
+            "i": 3,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                56.8156557,
+                24.602553
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:00 - 21:20"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e58790ca7028",
+            "title": "Ogre",
+            "departure": "2025-12-01 18:58:00",
+            "id": "58",
+            "gps_id": "58",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā ir veikals",
+            "adress": "Skolas iela 1, Ogre",
+            "pvID": "339",
+            "i": 19,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 19,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.7864997,
+                23.9464363
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "04:45 - 19:35"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e55fbfdc0ee4",
+            "title": "Olaine",
+            "departure": "2025-12-01 18:41:00",
+            "id": "132",
+            "gps_id": "132",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Olaines stacija",
+            "pvID": "340",
+            "i": 1,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.6860158,
+                23.8056784
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e5d6bee32f8e",
+            "title": "Ozolnieki",
+            "departure": "2025-12-01 19:18:00",
+            "id": "135",
+            "gps_id": "135",
+            "routes_id": "710568",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "342",
+            "i": 2,
+            "train": "6874",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.7978546,
+                23.96800915
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                "56.583472",
+                "25.789707"
+            ],
+            "workingTime": [],
+            "directionList": null,
+            "_id": "692ccc849c93e56f9292a8a7",
+            "id": "72",
+            "pvID": "344",
+            "title": "Ozolsala",
+            "lockedTitle": "Ozolsala",
+            "cargoTitle": "Ozolsala",
+            "waitingRoom": "0",
+            "canopy": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null
+        },
+        {
+            "coords": [
+                57.2421314,
+                24.408269
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e57ad2dc0fd5",
+            "title": "Pabaži",
+            "departure": "2025-12-01 19:44:00",
+            "id": "16",
+            "gps_id": "16",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Saulkrasti",
+            "pvID": "352",
+            "i": 16,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 16,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.8085505,
+                24.6163119
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5a017dc0f5a",
+            "title": "Pārogre",
+            "departure": "2025-12-01 19:08:00",
+            "id": "59",
+            "gps_id": "59",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Viestura aleja 1A, Ogre",
+            "pvID": "354",
+            "i": 8,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.6171713,
+                25.7169933
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e511baca7025",
+            "title": "Pļaviņas",
+            "departure": "2025-12-01 17:58:00",
+            "id": "71",
+            "gps_id": "71",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "Stacijas ēkā ir pasts",
+            "adress": "Stacijas iela2, Pļaviņas",
+            "pvID": "357",
+            "i": 16,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 16,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9719163,
+                23.8869414
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e59536dc0f1d",
+            "title": "Priedaine",
+            "departure": "2025-12-01 19:27:00",
+            "id": "109",
+            "gps_id": "109",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Lielais prospekts 2b, Jūrmala",
+            "pvID": "358",
+            "i": 17,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 17,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.959974,
+                23.73724
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e58bbfdc0f16",
+            "title": "Pumpuri",
+            "departure": "2025-12-01 19:06:00",
+            "id": "116",
+            "gps_id": "116",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jūrmala",
+            "pvID": "359",
+            "i": 10,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.5200181,
+                27.3451617
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "04:00 - 20:40"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e52e24ca701c",
+            "title": "Rēzekne 2",
+            "departure": "2025-12-01 16:16:00",
+            "id": "89",
+            "gps_id": "89",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Stacijas 7A, Rēzekne",
+            "pvID": "372",
+            "i": 7,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.94657784413092,
+                24.121085573207097
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "04:35 - 23:50"
+                    ]
+                }
+            ],
+            "_id": "692d8ee89c93e59251ca702a",
+            "title": "Rīga",
+            "departure": "2025-12-01 19:29:00",
+            "id": "1",
+            "gps_id": "1",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Stacijas laukums 2, Rīga",
+            "pvID": "1",
+            "i": 21,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 21,
+            "directionList": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.8840003,
+                24.2518989
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e5a796e32f9a",
+            "title": "Rumbula",
+            "departure": "2025-12-01 19:26:00",
+            "id": "51",
+            "gps_id": "51",
+            "routes_id": "710569",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Šķeltu iela 20, Rumbula, Stopiņu pag.",
+            "pvID": "377",
+            "i": 6,
+            "train": "6256",
+            "currentStopIndex": 7,
+            "animatedCoord": [
+                56.86505078,
+                24.318618880000002
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.5364693,
+                27.1521415
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e555d3ca701d",
+            "title": "Sakstagals",
+            "departure": "2025-12-01 16:26:00",
+            "id": "88",
+            "gps_id": "88",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Sakstagala pagasts",
+            "pvID": "379",
+            "i": 8,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.8605284,
+                24.3531078
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "06:05 - 18:35"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e55926dc0f5f",
+            "title": "Salaspils",
+            "departure": "2025-12-01 19:27:00",
+            "id": "54",
+            "gps_id": "54",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā otrā stāvā ir dzīvokļi",
+            "adress": "Salaspils",
+            "pvID": "380",
+            "i": 13,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 13,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.6858469,
+                22.4710257
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e52149dc0ee8",
+            "title": "Saldus",
+            "departure": "2025-12-01 20:14:00",
+            "id": "142",
+            "gps_id": "142",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "381",
+            "i": 5,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 5,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.9929087,
+                24.1341817
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5769edc0fc8",
+            "title": "Sarkandaugava",
+            "departure": "2025-12-01 19:01:00",
+            "id": "4",
+            "gps_id": "4",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Sliežu iela 2, Rīga",
+            "pvID": "382",
+            "i": 3,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.849527,
+                24.4358424
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5fa8edc0f5e",
+            "title": "Saulkalne",
+            "departure": "2025-12-01 19:22:00",
+            "id": "55",
+            "gps_id": "55",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Salaspils pagasts",
+            "pvID": "384",
+            "i": 12,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 12,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.2687137,
+                24.426591
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e514e6dc0fd6",
+            "title": "Saulkrasti",
+            "departure": "2025-12-01 19:48:00",
+            "id": "17",
+            "gps_id": "17",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "398",
+            "i": 17,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 17,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                57.1531939,
+                24.855571
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:45 - 18:20"
+                    ]
+                }
+            ],
+            "_id": "692dab089c93e5e4c0d56057",
+            "title": "Sigulda",
+            "departure": "2025-12-01 18:26:00",
+            "id": "30",
+            "gps_id": "30",
+            "routes_id": "710545",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Ausekļa iela 6, Sigulda",
+            "pvID": "408",
+            "i": 4,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.9045994,
+                24.2113248
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5f5fedc0f62",
+            "title": "Šķirotava",
+            "departure": "2025-12-01 19:37:00",
+            "id": "49",
+            "gps_id": "49",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Krustpils iela 20, Rīga",
+            "pvID": "421",
+            "i": 16,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 16,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.6469692,
+                25.1240592
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5ae99dc0f54",
+            "title": "Skrīveri",
+            "departure": "2025-12-01 18:38:00",
+            "id": "66",
+            "gps_id": "66",
+            "routes_id": "710558",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Stacijas laukums, Skrīveri,",
+            "pvID": "412",
+            "i": 2,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.68066963333334,
+                22.011182433333335
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e56331dc0ee9",
+            "title": "Skrunda",
+            "departure": "2025-12-01 20:39:00",
+            "id": "143",
+            "gps_id": "143",
+            "routes_id": "710551",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "413",
+            "i": 6,
+            "train": "723",
+            "currentStopIndex": 3,
+            "animatedCoord": [
+                56.6287513,
+                23.2848399
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                57.3320733,
+                24.460927833333333
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e56a28dc0fd9",
+            "title": "Skulte",
+            "departure": "2025-12-01 19:57:00",
+            "id": "20",
+            "gps_id": "20",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Skultes pagasts",
+            "pvID": "399",
+            "i": 20,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 20,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.9474749,
+                23.6187675
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "04:55 - 19:45"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e53af2dc0f12",
+            "title": "Sloka",
+            "departure": "2025-12-01 18:54:00",
+            "id": "120",
+            "gps_id": "120",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Satiksmes iela 1, Jūrmala",
+            "pvID": "394",
+            "i": 6,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9551479,
+                23.3365999
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e56b62dc0f0f",
+            "title": "Smārde",
+            "departure": "2025-12-01 18:36:00",
+            "id": "123",
+            "gps_id": "123",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "395",
+            "i": 3,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 3,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9855302,
+                24.1996113
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e5993fd5605d",
+            "title": "Šmerlis",
+            "departure": "2025-12-01 19:12:00",
+            "id": "186",
+            "gps_id": "186",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "",
+            "pvID": "540",
+            "i": 10,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.565737,
+                26.6371205
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e52c6fca7020",
+            "title": "Stirniene",
+            "departure": "2025-12-01 16:58:00",
+            "id": "85",
+            "gps_id": "85",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Varakļānu pagasts",
+            "pvID": "418",
+            "i": 11,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.6341126,
+                25.6997496
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e52720dc0f4e",
+            "title": "Strenči",
+            "departure": "2025-12-01 20:44:00",
+            "id": "41",
+            "gps_id": "41",
+            "routes_id": "710557",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "419",
+            "i": 9,
+            "train": "876",
+            "currentStopIndex": 4,
+            "animatedCoord": [
+                57.1565296,
+                24.881329685714288
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.53215572727273,
+                27.45419511818182
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e577beca701b",
+            "title": "Taudejāņi",
+            "departure": "2025-12-01 16:04:00",
+            "id": "90",
+            "gps_id": "90",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Lendžu pagasts",
+            "pvID": "423",
+            "i": 6,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.8868957,
+                24.0739065
+            ],
+            "workingTime": [],
+            "_id": "692dc7289c93e555e7e3301b",
+            "title": "Tīraine",
+            "departure": "2025-12-01 19:47:00",
+            "id": "129",
+            "gps_id": "129",
+            "routes_id": "710576",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "388",
+            "i": 4,
+            "train": "6757",
+            "currentStopIndex": 0,
+            "animatedCoord": [
+                56.94657,
+                24.12099
+            ],
+            "stopIndex": 4,
+            "directionList": [
+                3
+            ]
+        },
+        {
+            "coords": [
+                56.9327039,
+                24.0890126
+            ],
+            "workingTime": [
+                {
+                    "type": "darba dienās",
+                    "periods": [
+                        "07:00 - 19:15"
+                    ]
+                },
+                {
+                    "type": "brīvdienās",
+                    "periods": [
+                        "07:00 - 17:00"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e514cddc0f23",
+            "title": "Torņakalns",
+            "departure": "2025-12-01 19:45:00",
+            "id": "103",
+            "gps_id": "103",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Vilkaines iela 1, Rīga",
+            "pvID": "386",
+            "i": 23,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 23,
+            "directionList": [
+                3,
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.438642650000006,
+                26.07582205
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e50717d56032",
+            "title": "Trepe",
+            "departure": "2025-12-01 18:48:00",
+            "id": "74",
+            "gps_id": "74",
+            "routes_id": "710543",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Vīpes pagasts",
+            "pvID": "427",
+            "i": 6,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                56.9657011,
+                23.1695467
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "06:30 - 17:15"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e58537dc0f0d",
+            "title": "Tukums 1",
+            "departure": "2025-12-01 18:27:00",
+            "id": "125",
+            "gps_id": "125",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Tukuma 1, Dzelzceļa iela 3",
+            "pvID": "396",
+            "i": 1,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 1,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9596639,
+                23.1152878
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e58212dc0f0c",
+            "title": "Tukums 2",
+            "departure": "2025-12-01 18:22:00",
+            "id": "126",
+            "gps_id": "126",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "0",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": null,
+            "pvID": "397",
+            "i": 0,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 0,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.0407259,
+                26.4576862
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e53870d5602e",
+            "title": "Vabole",
+            "departure": "2025-12-01 17:59:00",
+            "id": "78",
+            "gps_id": "78",
+            "routes_id": "710543",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Vaboles pagasts",
+            "pvID": "430",
+            "i": 2,
+            "train": "809",
+            "currentStopIndex": 9,
+            "animatedCoord": [
+                56.63689798,
+                25.54919996
+            ],
+            "stopIndex": 2,
+            "directionList": [
+                1
+            ]
+        },
+        {
+            "coords": [
+                56.9442583,
+                24.1561591
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5eba4dc0f65",
+            "title": "Vagonu parks",
+            "departure": "2025-12-01 19:46:00",
+            "id": "46",
+            "gps_id": "46",
+            "routes_id": "710558",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Rīga",
+            "pvID": "450",
+            "i": 19,
+            "train": "6257",
+            "currentStopIndex": 14,
+            "animatedCoord": [
+                56.8710989,
+                24.2776853
+            ],
+            "stopIndex": 19,
+            "directionList": [
+                1,
+                2,
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9549723,
+                23.6687088
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e575addc0f13",
+            "title": "Vaivari",
+            "departure": "2025-12-01 19:00:00",
+            "id": "119",
+            "gps_id": "119",
+            "routes_id": "710554",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Skautu iela 23, Jūrmala",
+            "pvID": "393",
+            "i": 7,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.77416494285714,
+                26.051765185714284
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e5a373dc0f50",
+            "title": "Valga",
+            "departure": "2025-12-01 21:09:00",
+            "id": "45",
+            "gps_id": "45",
+            "routes_id": "710557",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Jaama 12, Valga, Igaunija",
+            "pvID": "460",
+            "i": 11,
+            "train": "876",
+            "currentStopIndex": 4,
+            "animatedCoord": [
+                57.1565296,
+                24.881329685714288
+            ],
+            "stopIndex": 11,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                57.5228982,
+                25.4417882
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e54293dc0f4d",
+            "title": "Valmiera",
+            "departure": "2025-12-01 20:28:00",
+            "id": "39",
+            "gps_id": "39",
+            "routes_id": "710557",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Stacijas laukums 1, Valmiera",
+            "pvID": "432",
+            "i": 8,
+            "train": "876",
+            "currentStopIndex": 4,
+            "animatedCoord": [
+                57.1565296,
+                24.881329685714288
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                57.0786412,
+                24.5878525
+            ],
+            "workingTime": [],
+            "_id": "692dab089c93e51531d5605a",
+            "title": "Vangaži",
+            "departure": "2025-12-01 18:49:00",
+            "id": "26",
+            "gps_id": "26",
+            "routes_id": "710545",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": " Inčukalna pagasts",
+            "pvID": "433",
+            "i": 7,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                6
+            ]
+        },
+        {
+            "coords": [
+                56.5605579,
+                26.7687986
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e53d39ca701f",
+            "title": "Varakļāni",
+            "departure": "2025-12-01 16:48:00",
+            "id": "86",
+            "gps_id": "86",
+            "routes_id": "710492",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Dekšāres pagasts",
+            "pvID": "434",
+            "i": 10,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 10,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                57.0745803,
+                24.1150727
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e56b71dc0fcd",
+            "title": "Vecāķi",
+            "departure": "2025-12-01 19:15:00",
+            "id": "8",
+            "gps_id": "8",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": null,
+            "adress": "Mangaļu prospekts 1c, Rīga",
+            "pvID": "451",
+            "i": 8,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 8,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                57.0570972,
+                24.1070757
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e517dddc0fcc",
+            "title": "Vecdaugava",
+            "departure": "2025-12-01 19:13:00",
+            "id": "7",
+            "gps_id": "7",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Rīga, Ziemeļu rajons",
+            "pvID": "449",
+            "i": 7,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 7,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.5610162,
+                26.939084
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e516b6ca701e",
+            "title": "Viļāni",
+            "departure": "2025-12-01 16:38:00",
+            "id": "87",
+            "gps_id": "87",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Jersikas iela 47, Viļāni",
+            "pvID": "441",
+            "i": 9,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 9,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.940774,
+                24.0523386
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:30 - 19:50"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e558d1dc0f22",
+            "title": "Zasulauks",
+            "departure": "2025-12-01 19:41:00",
+            "id": "104",
+            "gps_id": "104",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Stacijas ēkā ir apģērbu veikals",
+            "adress": "Tapešu iela 1, Rīga",
+            "pvID": "391",
+            "i": 22,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 22,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                56.9649417,
+                24.15621845
+            ],
+            "workingTime": [
+                {
+                    "type": "darba dienās",
+                    "periods": [
+                        "06:30 - 19:00"
+                    ]
+                },
+                {
+                    "type": "brīvdienās",
+                    "periods": [
+                        "07:15 - 19:00"
+                    ]
+                }
+            ],
+            "_id": "692dab089c93e5322fd5605f",
+            "title": "Zemitāni",
+            "departure": "2025-12-01 19:27:00",
+            "id": "2",
+            "gps_id": "2",
+            "routes_id": "710545",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "Ēkā ir kafejnīca",
+            "adress": "Zemitānu iela 11, Rīga",
+            "pvID": "400",
+            "i": 12,
+            "train": "839",
+            "currentStopIndex": 12,
+            "animatedCoord": [
+                56.9473419,
+                24.1549494
+            ],
+            "stopIndex": 12,
+            "directionList": [
+                4,
+                6
+            ]
+        },
+        {
+            "coords": [
+                57.0358441,
+                24.1147902
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e58a0ddc0fcb",
+            "title": "Ziemeļblāzma",
+            "departure": "2025-12-01 19:10:00",
+            "id": "6",
+            "gps_id": "6",
+            "routes_id": "710565",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "1",
+            "stationNotes": "",
+            "adress": "Vecāķu prospekts 2c, Rīga",
+            "pvID": "452",
+            "i": 6,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 6,
+            "directionList": [
+                4
+            ]
+        },
+        {
+            "coords": [
+                56.3917113,
+                28.1177798
+            ],
+            "workingTime": [],
+            "_id": "692d8ee89c93e519f2ca7015",
+            "title": "Zilupe",
+            "departure": "2025-12-01 15:11:00",
+            "id": "96",
+            "gps_id": "96",
+            "routes_id": "710492",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Stacijas iela 2, Zilupe",
+            "pvID": "446",
+            "i": 0,
+            "train": "805",
+            "currentStopIndex": 20,
+            "animatedCoord": [
+                56.9467191,
+                24.1249435
+            ],
+            "stopIndex": 0,
+            "directionList": [
+                7
+            ]
+        },
+        {
+            "coords": [
+                56.9492589,
+                24.0223453
+            ],
+            "workingTime": [
+                {
+                    "type": "katru dienu",
+                    "periods": [
+                        "05:25 - 19:50"
+                    ]
+                }
+            ],
+            "_id": "692db9189c93e59973dc0f20",
+            "title": "Zolitūde",
+            "departure": "2025-12-01 19:36:00",
+            "id": "106",
+            "gps_id": "106",
+            "routes_id": "710554",
+            "waitingRoom": "1",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": "",
+            "adress": "Rostokas iela 61, Rīga",
+            "pvID": "392",
+            "i": 20,
+            "train": "6524",
+            "currentStopIndex": 17,
+            "animatedCoord": [
+                56.95816865,
+                23.94879766875
+            ],
+            "stopIndex": 20,
+            "directionList": [
+                5
+            ]
+        },
+        {
+            "coords": [
+                57.3070155,
+                24.4427057
+            ],
+            "workingTime": [],
+            "_id": "692db9189c93e55d54dc0fd8",
+            "title": "Zvejniekciems",
+            "departure": "2025-12-01 19:53:00",
+            "id": "19",
+            "gps_id": "19",
+            "routes_id": "710565",
+            "waitingRoom": "0",
+            "wc": "1",
+            "coffeMachine": "0",
+            "stationNotes": null,
+            "adress": "Skultes pagasts",
+            "pvID": "453",
+            "i": 19,
+            "train": "6144",
+            "currentStopIndex": 13,
+            "animatedCoord": [
+                57.15834385,
+                24.3081284
+            ],
+            "stopIndex": 19,
+            "directionList": [
+                4
+            ]
+        }
+    ]
+}
